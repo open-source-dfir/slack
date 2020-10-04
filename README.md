@@ -8,6 +8,6 @@ https://open-source-dfir.slack.com
 
 Etiquettes
 
-* Overall please stay in scope are Open Source and DFIR
+* Overall please stay in scope of the community, these are Open Source and DFIR
 * Please stay in scope of the channel
 * Do not use for advertising your preferred tools
