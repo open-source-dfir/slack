@@ -1,6 +1,5 @@
-To join, register using the following link:
-
-https://join-open-source-dfir-slack.herokuapp.com/
+To join, send a mail with name, email address and a little bit of background
+information to: open-source-dfir-signup@googlegroups.com
 
 The Open Source DFIR Slack community can be found at:
 
